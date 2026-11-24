@@ -1,15 +1,26 @@
-<h1 align="center">Hi 👋, I'm Thabelo Andrew Mulaudzi</h1>
 
-<h3 align="center">
-Computer Science Honours Candidate | Student Researcher | Problem Solver
-</h3>
 
 <p align="center">
-  <i>From innovative ideas to real-world solutions.</i>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:9333EA&height=130&section=header" alt="Gradient header" />
 </p>
 
+
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="Waving hand" />, I'm Thabelo Andrew Mulaudzi
+</h1>
+
+<h3 align="center">
+  Computer Science Honours Candidate | Student Researcher | Problem Solver
+</h3>
+
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mulaudzithabelo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=4500&pause=1500&color=38BDF8&center=true&vCenter=true&repeat=true&width=800&height=65&lines=From+innovative+ideas+to+real-world+solutions." alt="From innovative ideas to real-world solutions." />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mulaudzithabelo&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 ---
