@@ -56,15 +56,15 @@ A machine learning application designed to identify potentially malicious inside
 
 ### 📊 Aspect-Based Sentiment Analysis in Higher Education
 
-A research project investigating the effectiveness of machine learning and deep learning models in identifying explicit and implicit aspects within student feedback.
+A research project investigating the effectiveness of NLP models in identifying explicit and implicit aspects within higher-education student feedback.
 
-The research evaluates different NLP architectures using the EduRABSA dataset to support a better understanding of fine-grained student opinions.
+The research evaluates different machine learning and deep learning architectures using the EduRABSA dataset to support a better understanding of fine-grained student opinions.
 
 **Technologies:** Python, BERT, Bi-LSTM, T5, RoBERTa, SVM
 
 ### 🌐 Personal Portfolio — My Digital Identity
 
-A personal portfolio website that serves as my digital identity, showcasing my academic journey, technical skills, research, projects, certifications, and professional interests.
+A personal portfolio website that serves as my digital identity, showcasing my academic journey, technical skills, research, projects, certifications, and professional interests in one centralized platform.
 
 **Technologies:** TypeScript, React, Vite, Tailwind CSS
 
@@ -103,13 +103,13 @@ A collaborative academic project designed to teach graph concepts and Dijkstra's
 ### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript" alt="Programming Languages" />
 </p>
 
 ### Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="Frontend Development" />
 </p>
 
 ### Artificial Intelligence, Machine Learning and Data Science
@@ -128,7 +128,7 @@ A collaborative academic project designed to teach graph concepts and Dijkstra's
 ### Development Tools and Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Development Tools" />
 </p>
 
 ---
@@ -143,7 +143,7 @@ A collaborative academic project designed to teach graph concepts and Dijkstra's
 ### 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mulaudzithabelo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mulaudzithabelo&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ### 📈 Contribution Activity
@@ -174,33 +174,35 @@ A collaborative academic project designed to teach graph concepts and Dijkstra's
 
 ## 🤝 Connect with Me
 
-
-## 🤝 Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/thabelo-andrew-mulaudzi-5aa4a2215/">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="35" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
   </a>
+  &nbsp;
   <a href="https://github.com/mulaudzithabelo">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="35" width="40" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/_andrewthabelo">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="35" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" />
   </a>
+  &nbsp;
   <a href="https://www.facebook.com/thabelo.andrew.mulaudzi">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="35" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="Facebook" height="40" width="40" />
   </a>
+  &nbsp;
   <a href="https://x.com/thabelo_02">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X" height="35" width="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" height="40" width="40" />
   </a>
+  &nbsp;
   <a href="https://www.dsfsi.co.za/members/thabelo-andrew-mulaudzi/">
-    <img src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="DSFSI Research Profile" height="35" width="40" />
+    <img src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="DSFSI Research Profile" height="40" width="40" />
   </a>
+  &nbsp;
   <a href="https://my-portfolio1-seven-ebon.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Personal Portfolio" height="35" width="40" />
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Personal Portfolio" height="40" width="40" />
   </a>
 </p>
-
 
 ---
 
