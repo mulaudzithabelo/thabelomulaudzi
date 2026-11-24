@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Thabelo Andrew Mulaudzi</h1>
 
 <h3 align="center">
@@ -17,9 +16,11 @@ Computer Science Honours Candidate | Student Researcher | Problem Solver
 
 ## 👨‍💻 About Me
 
-I am passionate about problem-solving, analytical thinking, and understanding how systems work. I enjoy identifying challenges, breaking down complex problems, and developing structured and practical solutions.
+I'm Thabelo Andrew Mulaudzi, a Computer Science Honours candidate at the University of Pretoria, based in Gauteng, South Africa. I am passionate about programming, web development, and building scalable solutions to address real-world problems.
 
-I use programming as a tool to implement ideas and translate analytical thinking into meaningful outcomes. My interests span artificial intelligence, machine learning, natural language processing, cybersecurity, data science, and software development.
+I hold an undergraduate degree from the University of Venda in Limpopo. Since 2026, I have been part of the Data Science for Social Impact (DSFSI) research group as a student researcher, focusing on Natural Language Processing (NLP) and Aspect-Based Sentiment Analysis (ABSA).
+
+My passion for continuous learning drives me to expand my technical expertise, explore emerging technologies, and stay up to date with the latest industry trends and development frameworks.
 
 - 🎓 Computer Science Honours Candidate at the University of Pretoria.
 - 🔬 Student Researcher within the Data Science for Social Impact (DSFSI) research community.
@@ -39,8 +40,6 @@ I use programming as a tool to implement ideas and translate analytical thinking
 - Aspect-Based Sentiment Analysis (ABSA)
 - Explainable Artificial Intelligence (XAI)
 - Data Science and Data Mining
-- Cybersecurity
-- Software Engineering
 
 ---
 
@@ -155,9 +154,8 @@ A collaborative academic project designed to teach graph concepts and Dijkstra's
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mulaudzithabelo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=mulaudzithabelo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
-
 ---
 
 ## 🎯 Professional Interests
