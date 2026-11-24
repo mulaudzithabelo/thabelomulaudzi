@@ -151,11 +151,6 @@ A collaborative academic project designed to teach graph concepts and Dijkstra's
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mulaudzithabelo&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=mulaudzithabelo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
 ---
 
 ## 🎯 Professional Interests
