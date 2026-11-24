@@ -174,17 +174,33 @@ A collaborative academic project designed to teach graph concepts and Dijkstra's
 
 ## 🤝 Connect with Me
 
+
+## 🤝 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/thabelo-andrew-mulaudzi-5aa4a2215/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="35" width="40" />
   </a>
   <a href="https://github.com/mulaudzithabelo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="35" width="40" />
+  </a>
+  <a href="https://www.instagram.com/_andrewthabelo">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="35" width="40" />
+  </a>
+  <a href="https://www.facebook.com/thabelo.andrew.mulaudzi">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="35" width="40" />
+  </a>
+  <a href="https://x.com/thabelo_02">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" height="35" width="40" />
+  </a>
+  <a href="https://www.dsfsi.co.za/members/thabelo-andrew-mulaudzi/">
+    <img src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="DSFSI Research Profile" height="35" width="40" />
   </a>
   <a href="https://my-portfolio1-seven-ebon.vercel.app/">
-    <img src="https://img.shields.io/badge/Personal%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Personal Portfolio" height="35" width="40" />
   </a>
 </p>
+
 
 ---
 
