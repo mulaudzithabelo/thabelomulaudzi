@@ -16,11 +16,7 @@ Computer Science Honours Candidate | Student Researcher | Problem Solver
 
 ## 👨‍💻 About Me
 
-I'm Thabelo Andrew Mulaudzi, a Computer Science Honours candidate at the University of Pretoria, based in Gauteng, South Africa. I am passionate about programming, web development, and building scalable solutions to address real-world problems.
-
-I hold an undergraduate degree from the University of Venda in Limpopo. Since 2026, I have been part of the Data Science for Social Impact (DSFSI) research group as a student researcher, focusing on Natural Language Processing (NLP) and Aspect-Based Sentiment Analysis (ABSA).
-
-My passion for continuous learning drives me to expand my technical expertise, explore emerging technologies, and stay up to date with the latest industry trends and development frameworks.
+I'm Thabelo Andrew Mulaudzi, a Computer Science Honours candidate at the University of Pretoria, based in Gauteng, South Africa. I am passionate about programming, web development, and building scalable solutions to address real-world problems. I hold an undergraduate degree from the University of Venda in Limpopo. Since 2026, I have been part of the Data Science for Social Impact (DSFSI) research group as a student researcher, focusing on Natural Language Processing (NLP) and Aspect-Based Sentiment Analysis (ABSA). My passion for continuous learning drives me to expand my technical expertise, explore emerging technologies, and stay up to date with the latest industry trends and development frameworks.
 
 - 🎓 Computer Science Honours Candidate at the University of Pretoria.
 - 🔬 Student Researcher within the Data Science for Social Impact (DSFSI) research community.
