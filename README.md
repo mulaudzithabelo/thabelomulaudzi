@@ -1,9 +1,7 @@
 
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:9333EA&height=130&section=header" alt="Gradient header" />
 </p>
-
 
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="Waving hand" />, I'm Thabelo Andrew Mulaudzi
@@ -13,11 +11,9 @@
   Computer Science Honours Candidate | Student Researcher | Problem Solver
 </h3>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=4500&pause=1500&color=38BDF8&center=true&vCenter=true&repeat=true&width=800&height=65&lines=From+innovative+ideas+to+real-world+solutions." alt="From innovative ideas to real-world solutions." />
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mulaudzithabelo&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
@@ -25,21 +21,27 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2>
+  <img src="https://api.iconify.design/lucide/user-round.svg?color=%2338BDF8" width="26" alt="" />
+  About Me
+</h2>
 
 I'm Thabelo Andrew Mulaudzi, a Computer Science Honours candidate at the University of Pretoria, based in Gauteng, South Africa. I am passionate about programming, web development, and building scalable solutions to address real-world problems. I hold an undergraduate degree from the University of Venda in Limpopo. Since 2026, I have been part of the Data Science for Social Impact (DSFSI) research group as a student researcher, focusing on Natural Language Processing (NLP) and Aspect-Based Sentiment Analysis (ABSA). My passion for continuous learning drives me to expand my technical expertise, explore emerging technologies, and stay up to date with the latest industry trends and development frameworks.
 
-- 🎓 Computer Science Honours Candidate at the University of Pretoria.
-- 🔬 Student Researcher within the Data Science for Social Impact (DSFSI) research community.
-- 🧠 Researching Aspect-Based Sentiment Analysis in higher education.
-- 🌱 Continuously expanding my technical and analytical knowledge.
-- 🤝 Open to collaboration on research and software development projects.
-- 🌍 Based in South Africa.
-- 🌐 Explore my digital identity through my [Personal Portfolio](https://my-portfolio1-seven-ebon.vercel.app/).
+- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2338BDF8" width="18" alt="" /> Computer Science Honours Candidate at the University of Pretoria.
+- <img src="https://api.iconify.design/lucide/microscope.svg?color=%2338BDF8" width="18" alt="" /> Student Researcher within the Data Science for Social Impact (DSFSI) research community.
+- <img src="https://api.iconify.design/lucide/brain.svg?color=%2338BDF8" width="18" alt="" /> Researching Aspect-Based Sentiment Analysis in higher education.
+- <img src="https://api.iconify.design/lucide/sprout.svg?color=%2338BDF8" width="18" alt="" /> Continuously expanding my technical and analytical knowledge.
+- <img src="https://api.iconify.design/lucide/handshake.svg?color=%2338BDF8" width="18" alt="" /> Open to collaboration on research and software development projects.
+- <img src="https://api.iconify.design/lucide/map-pin.svg?color=%2338BDF8" width="18" alt="" /> Based in South Africa.
+- <img src="https://api.iconify.design/lucide/globe.svg?color=%2338BDF8" width="18" alt="" /> Explore my digital identity through my [Personal Portfolio](https://my-portfolio1-seven-ebon.vercel.app/).
 
 ---
 
-## 🔬 Research Interests
+<h2>
+  <img src="https://api.iconify.design/lucide/flask-conical.svg?color=%2338BDF8" width="26" alt="" />
+  Research Interests
+</h2>
 
 - Artificial Intelligence (AI)
 - Machine Learning (ML)
@@ -50,9 +52,15 @@ I'm Thabelo Andrew Mulaudzi, a Computer Science Honours candidate at the Univers
 
 ---
 
-## 🚀 Featured Projects
+<h2>
+  <img src="https://api.iconify.design/lucide/rocket.svg?color=%2338BDF8" width="26" alt="" />
+  Featured Projects
+</h2>
 
-### 🛡️ AI-Powered Insider Threat Detection System
+<h3>
+  <img src="https://api.iconify.design/lucide/shield-check.svg?color=%2338BDF8" width="22" alt="" />
+  AI-Powered Insider Threat Detection System
+</h3>
 
 A machine learning application designed to identify potentially malicious insider activity from employee behavioural data. The system integrates XGBoost for risk prediction and SHAP for model explainability, supporting informed cybersecurity decision-making.
 
@@ -60,7 +68,10 @@ A machine learning application designed to identify potentially malicious inside
 
 [View Repository](https://github.com/mulaudzithabelo/AI-Powered-Insider-Threat-Detection-System)
 
-### 📊 Aspect-Based Sentiment Analysis in Higher Education
+<h3>
+  <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%2338BDF8" width="22" alt="" />
+  Aspect-Based Sentiment Analysis in Higher Education
+</h3>
 
 A research project investigating the effectiveness of NLP models in identifying explicit and implicit aspects within higher-education student feedback.
 
@@ -68,7 +79,10 @@ The research evaluates different machine learning and deep learning architecture
 
 **Technologies:** Python, BERT, Bi-LSTM, T5, RoBERTa, SVM
 
-### 🌐 Personal Portfolio - My Digital Identity
+<h3>
+  <img src="https://api.iconify.design/lucide/globe.svg?color=%2338BDF8" width="22" alt="" />
+  Personal Portfolio - My Digital Identity
+</h3>
 
 A personal portfolio website that serves as my digital identity, showcasing my academic journey, technical skills, research, projects, certifications, and professional interests in one centralized platform.
 
@@ -76,7 +90,10 @@ A personal portfolio website that serves as my digital identity, showcasing my a
 
 [View Repository](https://github.com/mulaudzithabelo/My-Portfolio) | [Live Website](https://my-portfolio1-seven-ebon.vercel.app/)
 
-### 📋 CSV to HTML Table Converter
+<h3>
+  <img src="https://api.iconify.design/lucide/table.svg?color=%2338BDF8" width="22" alt="" />
+  CSV to HTML Table Converter
+</h3>
 
 A web-based application that transforms CSV files into interactive and customizable HTML tables. It supports data editing, filtering, searching, visualization, conditional formatting, and multiple export formats.
 
@@ -84,7 +101,10 @@ A web-based application that transforms CSV files into interactive and customiza
 
 [View Repository](https://github.com/mulaudzithabelo/CSV-file-to-HTML-Table-Converter) | [Live Application](https://csvfile-to-htmltable-converter.netlify.app/)
 
-### 🎓 Interactive Educational Application - COS750
+<h3>
+  <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2338BDF8" width="22" alt="" />
+  Interactive Educational Application - COS750
+</h3>
 
 A collaborative academic project designed to teach graph concepts and Dijkstra's shortest path algorithm through interactive visualizations, assessments, progressive hints, and personalized learning feedback.
 
@@ -94,7 +114,10 @@ A collaborative academic project designed to teach graph concepts and Dijkstra's
 
 ---
 
-## 🔐 Cybersecurity Projects
+<h2>
+  <img src="https://api.iconify.design/lucide/lock-keyhole.svg?color=%2338BDF8" width="26" alt="" />
+  Cybersecurity Projects
+</h2>
 
 | Project | Description | Language |
 |---------|-------------|----------|
@@ -104,7 +127,10 @@ A collaborative academic project designed to teach graph concepts and Dijkstra's
 
 ---
 
-## 🛠️ Languages and Tools
+<h2>
+  <img src="https://api.iconify.design/lucide/code-xml.svg?color=%2338BDF8" width="26" alt="" />
+  Languages and Tools
+</h2>
 
 ### Programming Languages
 
@@ -139,20 +165,29 @@ A collaborative academic project designed to teach graph concepts and Dijkstra's
 
 ---
 
-## 📊 GitHub Statistics
+<h2>
+  <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%2338BDF8" width="26" alt="" />
+  GitHub Statistics
+</h2>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mulaudzithabelo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulaudzithabelo&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
-### 🔥 GitHub Contribution Streak
+<h3>
+  <img src="https://api.iconify.design/lucide/flame.svg?color=%2338BDF8" width="22" alt="" />
+  GitHub Contribution Streak
+</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mulaudzithabelo&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-### 📈 Contribution Activity
+<h3>
+  <img src="https://api.iconify.design/lucide/chart-line.svg?color=%2338BDF8" width="22" alt="" />
+  Contribution Activity
+</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mulaudzithabelo&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
@@ -160,7 +195,10 @@ A collaborative academic project designed to teach graph concepts and Dijkstra's
 
 ---
 
-## 🎯 Professional Interests
+<h2>
+  <img src="https://api.iconify.design/lucide/target.svg?color=%2338BDF8" width="26" alt="" />
+  Professional Interests
+</h2>
 
 - Research and innovation.
 - Analytical thinking and problem-solving.
@@ -172,7 +210,10 @@ A collaborative academic project designed to teach graph concepts and Dijkstra's
 
 ---
 
-## 🤝 Connect with Me
+<h2>
+  <img src="https://api.iconify.design/lucide/handshake.svg?color=%2338BDF8" width="26" alt="" />
+  Connect with Me
+</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thabelo-andrew-mulaudzi-5aa4a2215/">
