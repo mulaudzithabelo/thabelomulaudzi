@@ -62,7 +62,7 @@ The research evaluates different machine learning and deep learning architecture
 
 **Technologies:** Python, BERT, Bi-LSTM, T5, RoBERTa, SVM
 
-### 🌐 Personal Portfolio — My Digital Identity
+### 🌐 Personal Portfolio - My Digital Identity
 
 A personal portfolio website that serves as my digital identity, showcasing my academic journey, technical skills, research, projects, certifications, and professional interests in one centralized platform.
 
@@ -78,7 +78,7 @@ A web-based application that transforms CSV files into interactive and customiza
 
 [View Repository](https://github.com/mulaudzithabelo/CSV-file-to-HTML-Table-Converter) | [Live Application](https://csvfile-to-htmltable-converter.netlify.app/)
 
-### 🎓 Interactive Educational Application — COS750
+### 🎓 Interactive Educational Application - COS750
 
 A collaborative academic project designed to teach graph concepts and Dijkstra's shortest path algorithm through interactive visualizations, assessments, progressive hints, and personalized learning feedback.
 
